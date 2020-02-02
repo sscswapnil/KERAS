@@ -1,0 +1,1 @@
+In this file we just created simple Neural network with the help of keras. Further we will cover lot more exercies of the keras.
